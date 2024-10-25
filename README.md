@@ -1,6 +1,6 @@
-# Neo4j-SMBUD-Project
-
 # Systems and Methods for Big and Unstructured Data Project
+
+#Crime in Context: A Data-Driven Exploration of Mexican Crime Statistics Using Neo4j
 
 **Author**: Chiara Fossà  
 **Group Number**: 63  
